@@ -1,6 +1,7 @@
 # pytorch_intro (Deep Learning with PyTorch)
 
-This repo contains notebooks and related code for Udacity's Deep Learning with PyTorch lesson. This lesson appears in our AI Programming with Python Nanodegree program.
+This repo contains notebooks and related code for Udacity's Deep Learning with PyTorch lesson.
+
 
 Artificial Intelligence (AI) project (computer vision) - set of notebooks with basic image neuronet code using PyTorch focused in image neural network applications and techniques
 
