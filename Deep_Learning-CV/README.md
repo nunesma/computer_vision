@@ -4,6 +4,7 @@ Artificial Intelligence (AI) project (computer vision) - image neural network an
 
 This repository contains code materials for convolutional neural networks applications and techniques.
 
-Artificial Intelligence (AI) project - computer vision applications and techniques
+Table of contents:
 
 - pytorch_intro - set of notebooks with basic image neuronet code using PyTorch.
+- CNN - how to define and train a CNN and to visualize the output of layers that make up a CNN.
