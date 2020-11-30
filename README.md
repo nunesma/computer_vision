@@ -1,5 +1,4 @@
 # Computer Vision
-=================
 
 Artificial Intelligence (AI) project using computer vision applications and techniques
 
