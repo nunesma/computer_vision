@@ -5,7 +5,7 @@ Artificial Intelligence (AI) project using advanced computer vision applications
 This repository consists of notebooks that demonstrate advanced computer vision applications using  TensorFlow.
 
 ### Table of Contents:
-- 1_Transfer_Learning
-- 2_Object_detection
-- 3_Image_Segmentation
-- 4_Visualization_and_Interpretability
+- 1-Transfer_Learning
+- 2-Object_detection
+- 3-Image_Segmentation
+- 4-Visualization_and_Interpretability
